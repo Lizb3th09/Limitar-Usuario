@@ -14,7 +14,7 @@
 - LCK -> usuario  Administrador
 - pako -> usuario  limitado
 
-# Comandos Utilizados:
+# Comandos Utilizados para limitar:
 
 + groups pako -> agregamos al usuario a un grupo
 + sudo visudo ->  permitimos oh negamos el uso de comandos para el bloqueo en escalamiento
